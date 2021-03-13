@@ -1,0 +1,259 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.4f1 (becced5a802b) revision 12504301'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.867; Version 2009; 64bit' Language: 'tr' Physical Memory: 7926 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/rabia/Documents/GitHub/Platform-Game/redJava
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53165
+Successfully changed project path to: C:/Users/rabia/Documents/GitHub/Platform-Game/redJava
+C:/Users/rabia/Documents/GitHub/Platform-Game/redJava
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 101.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.4f1 (becced5a802b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rabia/Documents/GitHub/Platform-Game/redJava/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) 530 (ID=0x6900)
+    Vendor:   
+    VRAM:     2038 MB
+    Driver:   27.20.14535.3005
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002569 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 75.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.162 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 107.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.040 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.29 seconds
+Refreshing native plugins compatible for Editor in 32.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1935 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.2 MB.
+System memory in use after: 94.9 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 4.785300 ms (FindLiveObjects: 0.399600 ms CreateObjectMapping: 0.186700 ms MarkObjects: 3.398500 ms  DeleteObjects: 0.797400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/coinControl.cs
+  artifactKey: Guid(b5280e745700752468369bdbd1cbdfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/coinControl.cs using Guid(b5280e745700752468369bdbd1cbdfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7aa5164f6f8e6e7dde36e25bed2beff') in 0.424516 seconds
+  Import took 0.437644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 194.426937 seconds.
+  path: Assets/Scripts/coinControl.cs
+  artifactKey: Guid(b5280e745700752468369bdbd1cbdfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/coinControl.cs using Guid(b5280e745700752468369bdbd1cbdfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25504d7de6a16b84bb5533b7fc93f792') in 0.043974 seconds
+  Import took 0.055984 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002924 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1914 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2384.
+Total: 3.971700 ms (FindLiveObjects: 0.441400 ms CreateObjectMapping: 0.333800 ms MarkObjects: 2.795300 ms  DeleteObjects: 0.398700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 146.356453 seconds.
+  path: Assets/Scripts/coinControl.cs
+  artifactKey: Guid(b5280e745700752468369bdbd1cbdfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/coinControl.cs using Guid(b5280e745700752468369bdbd1cbdfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb62029a59a36f83fb95c97d87491465') in 0.013409 seconds
+  Import took 0.020135 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001499 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.701 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1914 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2387.
+Total: 3.240000 ms (FindLiveObjects: 0.323200 ms CreateObjectMapping: 0.142200 ms MarkObjects: 2.289300 ms  DeleteObjects: 0.483200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.315 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1914 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.7 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2390.
+Total: 3.012500 ms (FindLiveObjects: 0.347600 ms CreateObjectMapping: 0.125200 ms MarkObjects: 2.098400 ms  DeleteObjects: 0.438400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 96.866176 seconds.
+  path: Assets/Scripts/coinControl.cs
+  artifactKey: Guid(b5280e745700752468369bdbd1cbdfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/coinControl.cs using Guid(b5280e745700752468369bdbd1cbdfab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1838ba9811234bc2f98b474dd675af8') in 0.009167 seconds
+  Import took 0.015733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.415376 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 8.png
+  artifactKey: Guid(86ed6659d27a7fe4295215628f43dfee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 8.png using Guid(86ed6659d27a7fe4295215628f43dfee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ec8102ddcd66f7a35b0b039170fb29') in 0.259519 seconds
+  Import took 0.266962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.560776 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 9.png
+  artifactKey: Guid(71362eeb02d1e8c4192243e61f5a8f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 9.png using Guid(71362eeb02d1e8c4192243e61f5a8f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5df822ef511cd9447f5eeb0f9115ed') in 0.058530 seconds
+  Import took 0.070303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.313898 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 10.png
+  artifactKey: Guid(dfa73ca92daccb94b890dc4e3f5b5fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 10.png using Guid(dfa73ca92daccb94b890dc4e3f5b5fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99c24fef959c50d33c51dbb975f61fb') in 0.091071 seconds
+  Import took 0.097721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007413 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 10.png
+  artifactKey: Guid(dfa73ca92daccb94b890dc4e3f5b5fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 10.png using Guid(dfa73ca92daccb94b890dc4e3f5b5fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99c24fef959c50d33c51dbb975f61fb') in 0.032396 seconds
+  Import took 0.038684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 359.924164 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/coinAnimation.anim
+  artifactKey: Guid(32766604ffa01d840926012459d6203b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/coinAnimation.anim using Guid(32766604ffa01d840926012459d6203b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4dba88bc70bd3694033d3e7cea2f345') in 0.047882 seconds
+  Import took 0.057288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029507 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/coinAnimation.anim
+  artifactKey: Guid(32766604ffa01d840926012459d6203b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/coinAnimation.anim using Guid(32766604ffa01d840926012459d6203b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4dba88bc70bd3694033d3e7cea2f345') in 0.016171 seconds
+  Import took 0.021880 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004520 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.181 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1914 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.8 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2401.
+Total: 3.105800 ms (FindLiveObjects: 0.326800 ms CreateObjectMapping: 0.145400 ms MarkObjects: 2.226900 ms  DeleteObjects: 0.404200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
